@@ -18,9 +18,6 @@ export default function Header() {
             <a href="#" className="hover:text-white transition-colors">About</a>
             <a href="#" className="hover:text-white transition-colors">Tokenomics</a> */}
           </nav>
-          <Button className="bg-yellow-400 hover:bg-yellow-500 text-purple-900 font-bold">
-            Connect Wallet
-          </Button>
         </div>
       </div>
     </header>
